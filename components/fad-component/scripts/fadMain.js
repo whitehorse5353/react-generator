@@ -1,0 +1,1 @@
+var React = require("react") var View = require("./views/fadView.jsx") React.render( <View />, document.getElementById("fad"));
